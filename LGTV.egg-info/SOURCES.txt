@@ -1,0 +1,9 @@
+setup.py
+LGTV/__init__.py
+LGTV/main.py
+LGTV.egg-info/PKG-INFO
+LGTV.egg-info/SOURCES.txt
+LGTV.egg-info/dependency_links.txt
+LGTV.egg-info/entry_points.txt
+LGTV.egg-info/requires.txt
+LGTV.egg-info/top_level.txt
